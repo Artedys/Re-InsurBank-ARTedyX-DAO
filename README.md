@@ -1,5 +1,5 @@
 # Re-InsurBank-ARTedyX-DAO
-Democratizing Access for  small equity holders to DEX and CEX CAT bond to Catastrophe Bonds Traditionally Exclusive to Institutional Buyers. 
+Democratizing access for small equity holders to DEX and CEX catastrophe bonds, which have traditionally been exclusive to institutional buyers 
 
 # 1/ Without satellites data
 
