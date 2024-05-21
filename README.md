@@ -229,7 +229,7 @@ Source Tree:
 
 # Next Task: Deploy and test the contract on Mintlayer testnet. Conduct a security review, focusing on oracle integration. Document the contract and integrate with Mintlayer tools and platforms.
 
-# 3/ Re InsurBank ARTedyX DAO SVP (Special Purpose Vehicle) with Ethereum side-chaun AND Bitcoin side-chain for catastrophe bonds and ReFi payments
+# 3/ Re InsurBank ARTedyX DAO SVP (Special Purpose Vehicle) with Ethereum side-chain AND Bitcoin side-chain for catastrophe bonds and ReFi payments
 
 
 Language > Specialist: Solidity & MLT > Smart Contract Developer
