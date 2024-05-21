@@ -138,7 +138,7 @@ Requirements: V=2, emphasis on modularity, security, and gas efficiency
 5. Redemption and Maturity:
    - Handle the redemption of the bond at maturity if no catastrophe event has occurred based on the KPI data.
 
-Smart Contract with Oracle Integration
+# Smart Contract with Oracle Integration
 
 ```mlt
 // Mintlayer Catastrophe Bond Contract with Oracle Integration
