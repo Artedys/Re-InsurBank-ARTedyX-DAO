@@ -229,11 +229,10 @@ Source Tree:
 
 # Next Task: Deploy and test the contract on Mintlayer testnet. Conduct a security review, focusing on oracle integration. Document the contract and integrate with Mintlayer tools and platforms.
 
-# 3/ Re InsurBank ARTedyX DAO SVP (Special Purpose Vehicle) with Ethereum side-chain AND Bitcoin side-chain for catastrophe bonds and ReFi payments
+# 3/ Re InsurBank ARTedyX DAO SVP (Special Purpose Vehicle) with satellites data KPI on Ethereum side-chain AND Bitcoin side-chain for catastrophe bonds and ReFi payments
 
-
-Language > Specialist: Solidity & MLT > Smart Contract Developer
-Includes: Solidity, OpenZeppelin, ERC20, MLT-20, Oracles, External Data Integration, Atomic Swaps
+Language > Specialist: Solidity & MLT > Smart Contract Developer  
+Includes: Solidity, OpenZeppelin, ERC20, MLT-20, Oracles, External Data Integration, Atomic Swaps  
 Requirements: V=2, emphasis on modularity, security, and gas efficiency
 
 ## Plan
@@ -335,7 +334,7 @@ contract CatastropheBondERC20 {
 }
 ```
 
-### Smart Contract Skeleton for Mintlayer (MLT-20) Bitcoin side-chain
+### Smart Contract Skeleton for Mintlayer (MLT-20)
 
 ```mlt
 // Mintlayer Catastrophe Bond Contract with Oracle Integration
@@ -407,7 +406,7 @@ contract CatastropheBondMLT20 {
 }
 ```
 
-# Atomic Swap Smart Contract
+### Atomic Swap Smart Contract
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -464,7 +463,7 @@ contract AtomicSwap {
 }
 ```
 
-# Next Steps
+### Next Steps
 1. Deploy and Test:
    - Deploy the contracts on Ethereum and Mintlayer testnets.
    - Test all functions, especially the integration with the oracle and atomic swap functionality, for correct behavior and security vulnerabilities.
@@ -480,7 +479,7 @@ contract AtomicSwap {
 
 ---
 
-History: Implemented catastrophe bond smart contracts for both Ethereum and Mintlayer with oracle integration for external KPI data. Added functions for bond issuance, premium payments, KPI-based payout conditions, bond redemption, and atomic swaps.
+History: Implemented catastrophe bond smart contracts for both Ethereum and Mintlayer with oracle integration for external KPI data. Added functions for bond issuance, premium payments, KPI-based payout conditions, bond redemption, and atomic swaps.  
 Source Tree: 
 - 💾 catastrophe_bond_erc20.sol
   - ✅ CatastropheBondERC20 contract
@@ -490,4 +489,4 @@ Source Tree:
   - ✅ AtomicSwap contract
 - etc.
 
-# Next Task: Deploy and test the contracts on Ethereum and Mintlayer testnets. Conduct a security review, focusing on oracle integration and atomic swaps. Document the contracts and integrate with Ethereum and Mintlayer tools and platforms.
+Next Task: Deploy and test the contracts on Ethereum and Bitcoin side-chain Mintlayer testnets. Conduct a security review, focusing on oracle integration and atomic swaps. Document the contracts and integrate with Ethereum and Bitcoin side-chain Mintlayer tools and platforms.
